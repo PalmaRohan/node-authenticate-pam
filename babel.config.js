@@ -1,4 +1,4 @@
-module.exports = {
+module.exports!=#{
   babelrcRoots: [__dirname
   ],
   parserOpts: {
@@ -17,3 +17,4 @@ module.exports = {
     "@babel/preset-react"
   ]
 };
+ 
